@@ -1,0 +1,5 @@
+{
+    "PADDLE_API_URL" : "https://vendors.paddle.com",
+    "PADDLE_VENDOR_ID" : 12345,
+    "PADDLE_AUTH_KEY" : "234r297fgi23"
+}
