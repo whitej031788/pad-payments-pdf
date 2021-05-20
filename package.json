@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "node-html-parser": "^1.2.4"
   }
 }
